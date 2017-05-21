@@ -1,0 +1,18 @@
+{
+  "name": "neat-porter",
+  "version": "1.0.0",
+  "description": "Minimal Mocha Reporter",
+  "keywords": [
+    "mocha",
+    "test",
+    "bdd",
+    "tdd"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Davarnia <robdvr@gmail.com>",
+  "repository": "SpringboardAuto/neat-porter",
+  "homepage": "https://github.com/SpringboardAuto/neat-porter",
+  "license": "MIT"
+}
