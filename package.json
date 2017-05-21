@@ -8,11 +8,16 @@
     "bdd",
     "tdd"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Rob Davarnia <robdvr@gmail.com>",
-  "repository": "SpringboardAuto/neat-porter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpringboardAuto/neat-porter"
+  },
+  "bugs": {
+    "url": "https://github.com/SpringboardAuto/neat-porter/issues"
+  },
   "homepage": "https://github.com/SpringboardAuto/neat-porter",
-  "license": "MIT"
+  "bin": "reporter.js",
+  "main": "reporter.js"
 }
